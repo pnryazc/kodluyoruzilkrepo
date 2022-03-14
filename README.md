@@ -10,7 +10,7 @@
 
 -----------------------------------------------------------------------------------------
 
-Öncelikle projeyi clonlayın.(Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonlayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```
 git clone https://github.com/pnryazc/kodluyoruzilkrepo.git
@@ -40,8 +40,6 @@ Pull requestler kabul edilir.Büyük değişiklikler için,lütfen önce neyi de
 ---------------------------------------
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
 
 
 
